@@ -1,7 +1,7 @@
 ### Olá! Sou Igor Dutra 
 
 - 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando para tirar certificação MS Microsoft 
+- 🌱 Estudando C# AspNetCore
 - 😄 Ele/Dele
 
 <div align="center">
